@@ -10,4 +10,6 @@ PROBLRM LIST
 8. Customer Who Visited but Did Not Make Any Transactions -> https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50
 9. Rising Temperature -> https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50
 10. Average Time of Process per Machine -> https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50
+11. Employee Bonus -> https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50
+12. Students and Examinations -> https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50
 
