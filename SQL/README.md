@@ -14,5 +14,7 @@ PROBLRM LIST
 12. Students and Examinations -> https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50
 13. Managers with at Least 5 Direct Reports -> https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50
 14. Confirmation Rate -> https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50
+15. Not Boring Movies -> https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50
+
 
 
