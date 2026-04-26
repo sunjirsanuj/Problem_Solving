@@ -15,6 +15,10 @@ PROBLRM LIST
 13. Managers with at Least 5 Direct Reports -> https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50
 14. Confirmation Rate -> https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50
 15. Not Boring Movies -> https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50
+16. Average Selling Price -> https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50
+17. Project Employees I -> https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50
+18. Percentage of Users Attended a Contest -> https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50
+19. Queries Quality and Percentage -> https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50
 
 
 
