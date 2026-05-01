@@ -22,4 +22,11 @@ PROBLRM LIST
 20. Monthly Transactions I -> https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50
 21. Immediate Food Delivery II -> https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50
 22. Game Play Analysis IV -> https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50
-
+23. Number of Unique Subjects Taught by Each Teacher -> https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50
+24. User Activity for the Past 30 Days I -> https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50
+25. Product Sales Analysis III -> https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50
+26. Classes With at Least 5 Students -> https://leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50
+27. Find Followers Count -> https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50
+28. Biggest Single Number -> https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50
+29. Customers Who Bought All Products -> https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50
+30. The Number of Employees Which Report to Each Employee -> https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50
