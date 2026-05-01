@@ -21,5 +21,5 @@ PROBLRM LIST
 19. Queries Quality and Percentage -> https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50
 20. Monthly Transactions I -> https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50
 21. Immediate Food Delivery II -> https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50
-
+22. Game Play Analysis IV -> https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50
 
