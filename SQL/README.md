@@ -30,3 +30,8 @@ PROBLRM LIST
 28. Biggest Single Number -> https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50
 29. Customers Who Bought All Products -> https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50
 30. The Number of Employees Which Report to Each Employee -> https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50
+31. Primary Department for Each Employee -> https://leetcode.com/problems/primary-department-for-each-employee/description/?envType=study-plan-v2&envId=top-sql-50
+32. Triangle Judgement -> https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50
+33. Consecutive Numbers -> https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50
+34. Employees Whose Manager Left the Company -> https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50
+
